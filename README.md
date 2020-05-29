@@ -17,3 +17,6 @@ To import the existing table (tbl_customer) in H2 Database:<br/>
 <b>runscript from '/E:/SpringBoot/Table/tbl_customer.sql'</b><br/>
 
 ![Table-Import-Script-H2-Database](https://user-images.githubusercontent.com/35772312/83239416-760df480-a1b5-11ea-8a05-2423e6676378.png)
+
+Swagger API Documentation:<br/>
+![Swagger-API-Documentation](https://user-images.githubusercontent.com/35772312/83240231-ba4dc480-a1b6-11ea-8406-f7c7ac98a42c.png)
