@@ -26,3 +26,9 @@ To import the existing table (tbl_customer) in H2 Database:<br/>
 
 <b>To Create a Distributable Jar File:- (Right click on the Project -> Run As -> Maven install)</b>
 
+![2020-05-29 14_41_44-Photos](https://user-images.githubusercontent.com/35772312/83243567-b7090780-a1bb-11ea-82ce-a19242de6d71.png)
+
+Jar file will get created under "target" folder with the name :- <b>springboot-crud-demo-0.0.1-SNAPSHOT.jar</b>
+
+
+
