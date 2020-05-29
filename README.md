@@ -10,3 +10,8 @@ https://repo1.maven.org/maven2/com/h2database/h2/1.4.197/h2-1.4.197.jar
 Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
 
 https://mockaroo.com/
+
+Table-Import-Script-Into-H2-Database:<br/>
+To import the existing table (tbl_customer) in H2 Database:<br/>
+
+runscript from '/E:/SpringBoot/Table/tbl_customer.sql'
