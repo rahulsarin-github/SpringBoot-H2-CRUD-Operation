@@ -23,3 +23,6 @@ To import the existing table (tbl_customer) in H2 Database:<br/>
 ![Swagger-API-Documentation](https://user-images.githubusercontent.com/35772312/83240231-ba4dc480-a1b6-11ea-8406-f7c7ac98a42c.png)
 
 ![API_Documentation](https://user-images.githubusercontent.com/35772312/83240813-8b841e00-a1b7-11ea-9a3e-7bea16a3bf2d.png)
+
+<b>To Create a Distributable Jar File:- (Right click on the Project -> Run As -> Maven install)</b>
+
