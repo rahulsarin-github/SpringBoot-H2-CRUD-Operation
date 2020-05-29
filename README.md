@@ -32,3 +32,5 @@ Jar file will get created under "target" folder with the name :- <b>springboot-c
 
 ![2020-05-29 14_52_04-](https://user-images.githubusercontent.com/35772312/83244220-a6a55c80-a1bc-11ea-9d7b-d2432dcefa65.png)
 
+To run the Jar File, below is the following command:<br/>
+
