@@ -34,3 +34,7 @@ Jar file will get created under "target" folder with the name :- <b>springboot-c
 
 To run the Jar File, below is the following command:<br/>
 
+![2020-05-29 15_02_24-C__Windows_System32_cmd exe](https://user-images.githubusercontent.com/35772312/83244987-c426f600-a1bd-11ea-9c38-ea52317d7766.png)
+
+To override any property from the "application.properties" file, and then run the Jar File, below is the following command:<br/>
+
