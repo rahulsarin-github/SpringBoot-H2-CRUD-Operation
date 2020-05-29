@@ -1,0 +1,8 @@
+Table-Import-Script-Into-H2-Database:
+
+To import the existing table (tbl_customer) in H2 Database:
+
+runscript from '/E:/Table/tbl_customer.sql'
+
+==============================================================
+
