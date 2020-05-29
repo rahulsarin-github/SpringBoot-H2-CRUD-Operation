@@ -14,4 +14,4 @@ https://mockaroo.com/
 Table-Import-Script-Into-H2-Database:<br/>
 To import the existing table (tbl_customer) in H2 Database:<br/>
 
-runscript from '/E:/SpringBoot/Table/tbl_customer.sql'
+<b>runscript from '/E:/SpringBoot/Table/tbl_customer.sql'</b>
