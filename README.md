@@ -18,6 +18,8 @@ To import the existing table (tbl_customer) in H2 Database:<br/>
 
 ![Table-Import-Script-H2-Database](https://user-images.githubusercontent.com/35772312/83239416-760df480-a1b5-11ea-8a05-2423e6676378.png)
 
-Swagger API Documentation:<br/>
+<b>Swagger API Documentation:</b><br/>
 
 ![Swagger-API-Documentation](https://user-images.githubusercontent.com/35772312/83240231-ba4dc480-a1b6-11ea-8406-f7c7ac98a42c.png)
+
+![API_Documentation](https://user-images.githubusercontent.com/35772312/83240813-8b841e00-a1b7-11ea-9a3e-7bea16a3bf2d.png)
